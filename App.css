@@ -1,0 +1,19 @@
+.main-div {
+  max-width: 300px;
+  min-height: 600px;
+  border: 8px solid black;
+
+  border-radius: 40px;
+  margin: auto;
+}
+.Card-Img {
+
+}
+.Card-Div {
+  overflow-y: scroll;
+  max-height: 250px;
+}
+
+::-webkit-scrollbar{
+  max-width: 0;
+}
